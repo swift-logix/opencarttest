@@ -1,0 +1,5 @@
+2022-05-24 20:40:14 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /Applications/MAMP/htdocs/opencarttest/system/library/db/mysqli.php on line 7
+2022-05-24 20:40:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/opencarttest/system/library/db/mysqli.php on line 10
+2022-05-24 20:40:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/opencarttest/system/library/db/mysqli.php on line 10
+2022-05-24 20:40:14 - PHP Notice:  Undefined variable: mysql in /Applications/MAMP/htdocs/opencarttest/install/controller/install/step_3.php on line 280
+2022-05-24 20:40:14 - PHP Notice:  Trying to get property 'connect_error' of non-object in /Applications/MAMP/htdocs/opencarttest/install/controller/install/step_3.php on line 280
